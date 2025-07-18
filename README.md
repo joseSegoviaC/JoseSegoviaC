@@ -36,7 +36,7 @@ Soy un desarrollador full stack con experiencia en backend y frontend. Me apasio
 
 ### 📫 ¿Cómo puedes contactarme?
 - **Email**: jose_segovia_01@hotmail.com
-- **LinkedIn**: https://www.linkedin.com/in/josé-carlos-segovia-calderón-952001205/
+- **LinkedIn**: https://www.linkedin.com/in/jose-carlos-segovia-calderon
 ---
 
 ### 🎯 ¡Hablemos de proyectos interesantes!
