@@ -11,11 +11,11 @@ Soy un desarrollador full stack con experiencia en backend y frontend. Me apasio
 ---
 
 ### 🚀 Tecnologías en las que trabajo:
-- **Backend**: PHP, Laravel, Python, Django
-- **Frontend**: JavaScript, HTML, CSS, Bootstrap
+- **Backend**: PHP, Laravel, Python, Django, Java, Spring Boot, C#, .NET, Node.js
+- **Frontend**: JavaScript, HTML, CSS, Bootstrap, React, Next.js
 - **Bases de datos**: MySQL, PostgreSQL, MSSQL server
 - **Herramientas**: Git, Docker, Composer, Poetry
-- **Testing**: PHPUnit, Pytest
+- **Testing**: PHPUnit, Pytest, JUnit 5, xUnit, Jest
 - **Otros**: API REST, GraphQL, TDD
 
 ---
@@ -29,7 +29,7 @@ Soy un desarrollador full stack con experiencia en backend y frontend. Me apasio
 -->
 
 ### 📚 Siempre avanzando
-- Actualmente profundizo mis conocimientos en tecnologías como **Node.js** y **React**.
+- Actualmente profundizo mis conocimientos en tecnologías como **Nest.js** y **Angular**.
 - Mejorando mis perfiles y portfolios dev.
 
 ---
